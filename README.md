@@ -1,15 +1,16 @@
 # Oi 👋 Bem vindo ao meu perfil!
 
 ## 👨🏻‍💻 Um pouco sobre mim
-* 🌎 Brasileiro
-* 🎓 Estudante de Sistemas de Informação
-* 🤔 No momento explorando novas tecnologias
+* 🌎 Sou brasileiro e estudante da UFMG (Universidade Federal de Minas Gerais)
+* 🎓 Estou cursando Sistemas de Informação
+* 🤔 No momento estou explorando novas tecnologias e expandindo meus conhecimentos.
 
 ### ⚙️ Linguagens
 
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![C](https://img.shields.io/badge/c-%2300BFFF.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-%2300599C.svg?style=for-the-badge&logo=R&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%23005166.svg?style=for-the-badge&logo=verilog&logoColor=white)
 
 ### 🛠 Ferramentas
 
