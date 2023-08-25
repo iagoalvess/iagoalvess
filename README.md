@@ -23,15 +23,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-%2300599C.svg?style=for-the-badge&logo=RStudio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-### 💻 Setup
-
-![Lenovo](https://img.shields.io/badge/Ubuntu-Lenovo_Ideapad-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![AMD Ryzen 5](https://img.shields.io/badge/AMD-Ryzen_5-%23ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![RAM 20GB](https://img.shields.io/badge/RAM-20GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-![AMD Radeon Graphics](https://img.shields.io/badge/AMD-Radeon_Graphics-%23ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![256GB SSD](https://img.shields.io/badge/SSD-256GB-grey?style=for-the-badge)
 
 ## Contato
 
@@ -40,4 +31,4 @@
 </a>
 
 -------
-Última atualização: 14/07/2023
+Última atualização: 25/08/2023
