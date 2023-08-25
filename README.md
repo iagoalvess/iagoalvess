@@ -27,10 +27,11 @@
 ## Contato
 
 <a href="mailto:iagoalves.voador@gmail.com">
-<img alt="eMail" src="https://img.shields.io/badge/iagoalves.voador@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="eMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/iago-alves-73844328a/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/iago-alves-73844328a-D14836?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 -------
 Última atualização: 25/08/2023
