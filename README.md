@@ -1,9 +1,8 @@
 # Oi 👋 Bem vindo ao meu perfil!
 
 ## 👨🏻‍💻 Um pouco sobre mim
-* 🌎 Sou brasileiro e estudante da UFMG (Universidade Federal de Minas Gerais)
-* 🎓 Estou cursando Sistemas de Informação
-* 🤔 No momento estou explorando novas tecnologias e expandindo meus conhecimentos.
+* 🌎 Brasileiro e estudante na Universidade Federal de Minas Gerais
+* 🎓 Cursando Sistemas de Informação
 
 ### ⚙️ Linguagens
 
