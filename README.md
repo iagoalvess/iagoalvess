@@ -10,6 +10,7 @@
 ![C](https://img.shields.io/badge/c-%2300BFFF.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-%2300599C.svg?style=for-the-badge&logo=R&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%23005166.svg?style=for-the-badge&logo=verilog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠 Ferramentas
 
